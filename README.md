@@ -1,7 +1,7 @@
 <h1 align="center">Hiya! It's Jeralson :)</h1>
 <h3 align="center">A UCR student always learning!</h3>
 
-<img align='right' src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="230" />
+<img align='right' src="https://media1.tenor.com/m/ipC8bVPvJOUAAAAC/luffy-nose-picking.gif" width="230" />
 
 - 🖊️ I’m currently working on a Senior Design Project: [Snapchef](https://github.com/UCR-Senior-Design/course-project-og-squad)
 
