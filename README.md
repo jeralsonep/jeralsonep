@@ -5,8 +5,6 @@
 
 - 🖊️ I’m currently working on a Senior Design Project: [Snapchef](https://github.com/UCR-Senior-Design/course-project-og-squad)
 
-- 📚 I’m currently learning **CS108, CS152, CS167, CS178B**
-
 - 📁 Check out my portfolio! [https://jeralson-portfolio.vercel.app/](https://jeralson-portfolio.vercel.app/)
 
 - 🖥️ I'm practicing **React, Javascript Frameworks (e.g. Next.js)**
