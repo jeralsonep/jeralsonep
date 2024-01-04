@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeralsonep&theme=default" alt="jeralsonep" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeralsonep&label=Profile%20Views&color=7ac3ea&style=flat" alt="jeralsonep" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeralsonep&label=Profile%20Views&color=7ac3ea&style=flat" alt="jeralsonep" /> </p> --->
