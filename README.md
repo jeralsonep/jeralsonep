@@ -3,7 +3,8 @@
 
 <img align='right' src="https://media1.tenor.com/m/TUvcFjOqnG0AAAAC/cute-adorable.gif" width="300" />
 
-- 🖊️ I’m currently working on a Senior Design Project: [Snapchef](https://github.com/UCR-Senior-Design/course-project-og-squad)
+- 🖊️ I’m currently in my last quarter of undergrad! 心臓を捧げよ!
+<!--- 🖊️ I’m currently working on a Senior Design Project: [Snapchef](https://github.com/UCR-Senior-Design/course-project-og-squad) --->
 
 - 📁 Check out my portfolio! [https://jeralson-portfolio.vercel.app/](https://jeralson-portfolio.vercel.app/)
 
